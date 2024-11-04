@@ -2,6 +2,23 @@
 
 ### Project Title : Sales Performance Analysis For a Retail Store 
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+
+
+
 ### Project Overview
 ---
 This sales analysis provides valuable insights for a retail store over a specified timeframe. By examining various parameters within the data, I gained a comprehensive understanding that facilitated informed decision-making. This process allowed me to derive narratives from the insights obtained, enriching my understanding of sales performance.
@@ -134,4 +151,6 @@ WHERE ORDERDATE BETWEEN '2024-07-01' AND '2024-09-30')
 ![bi 4](https://github.com/user-attachments/assets/0659a3b6-cafb-4036-b81e-32459ac860b0)
 ![BI 3](https://github.com/user-attachments/assets/d56fef27-1d30-4347-b6e0-85e4dae1dc5d)
 ![BI 2](https://github.com/user-attachments/assets/a8b38160-162e-46cf-bb39-f180e01e8041)
+
+
 
