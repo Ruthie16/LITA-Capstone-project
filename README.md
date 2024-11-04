@@ -148,9 +148,8 @@ WHERE ORDERDATE BETWEEN '2024-07-01' AND '2024-09-30')
 ![ex 4](https://github.com/user-attachments/assets/fb58b418-be5e-4bd2-8210-89c4535e4aeb)
 ![ex 2](https://github.com/user-attachments/assets/b7473f58-34de-49b8-9472-b63228cb8a4f)
 ![ex 1](https://github.com/user-attachments/assets/d61890f7-798b-4a79-95f5-f274fa95226e)
-![bi 4](https://github.com/user-attachments/assets/0659a3b6-cafb-4036-b81e-32459ac860b0)
 ![BI 3](https://github.com/user-attachments/assets/d56fef27-1d30-4347-b6e0-85e4dae1dc5d)
 ![BI 2](https://github.com/user-attachments/assets/a8b38160-162e-46cf-bb39-f180e01e8041)
-
+![bi 5](https://github.com/user-attachments/assets/51aea93c-c1c4-4f81-828a-70beb4be5420)
 
 
